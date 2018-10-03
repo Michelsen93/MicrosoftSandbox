@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{886D7698-9DA9-4F7A-85F3-F305223719E4}</ProjectGuid>
+    <ProjectGuid>{3E5753FB-36E4-477B-A4BB-6337049208FC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Learning.Tests</RootNamespace>
@@ -100,7 +100,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Learning\Learning.csproj">
-      <Project>{D0B25E4C-FB91-4313-94DF-7276B9C5B759}</Project>
+      <Project>{CCAD6AF2-0A85-4397-A56A-50A74BB3C88B}</Project>
       <Name>Learning</Name>
     </ProjectReference>
   </ItemGroup>
